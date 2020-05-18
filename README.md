@@ -1,2 +1,2 @@
-# GBR_E.pallida_krona_plots
-Download these Krona plot files and open in a web browser to explore the compositions and relative abundance of the bacterial communities associated with _Exaiptasia pallida_ from the Great Barrier Reef.
+# E.diaphana_krona_plots
+Krona plot files describing the compositions and relative abundance of the bacterial communities associated with _Exaiptasia diaphana_ originally sourced from the Great Barrier Reef and maintained at the University of Melbourne.
